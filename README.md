@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**x-yarrow-x/x-yarrow-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Things I like:
 - ✈️ Aviation Geek – Love everything about aircraft & engines!
 - 🔐 Cybersecurity Enthusiast – Catch me diving into pentesting, forensics & all things security.
