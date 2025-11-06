@@ -8,7 +8,7 @@
 - 🎶 Music & Dance Lover – Might drop some rhythm between coding sprints.
 - 🗣️ Language Enth– Learning a few, cause why not?
 - 🤔 I’m looking for help with everything. I just wanna learn stuff here
--💬 Ask me about: Engines, propulsion systems, CAD Designs, Network Security and Coding
--📫 How to reach me: Just drop a text
--⚡ Fun fact: None
+- 💬 Ask me about: Engines, propulsion systems, CAD Designs, Network Security and Coding
+- 📫 How to reach me: Just drop a text
+- ⚡ Fun fact: None
 -->
